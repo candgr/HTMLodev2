@@ -1,1 +1,1 @@
-HTML eğitimi ödev-1
+HTML eğitimi ödev-2
